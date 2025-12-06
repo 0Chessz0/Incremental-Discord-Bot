@@ -1,0 +1,3 @@
+GAME_NAME = "Incremental"
+
+EMBED_COLOR_MAIN = 0xFF00FF
